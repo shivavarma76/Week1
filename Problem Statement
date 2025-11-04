@@ -1,0 +1,7 @@
+Effective waste management is one of the key challenges in achieving environmental sustainability. Improper segregation of waste (e.g., plastic, paper, metal, organic) often leads to increased pollution, inefficient recycling, and harm to human health and ecosystems.
+
+Manual waste sorting is time-consuming, labor-intensive, and prone to human error. Hence, there is a growing need for an automated system that can classify waste efficiently and accurately.
+
+This project aims to develop an intelligent waste classification model using Convolutional Neural Networks (CNN) that can automatically identify and categorize different types of waste based on image inputs.
+
+The model will help in promoting smart recycling, reducing human effort, and supporting sustainable waste management practices.
